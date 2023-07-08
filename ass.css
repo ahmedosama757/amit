@@ -1,0 +1,12 @@
+.div1{
+    width: 100%;
+    transition: 5;
+ /* transform: scale(2); */
+}
+.img{
+    width: 100%;
+    height: 500px;
+    transform: scale(2,1);
+
+    
+}
